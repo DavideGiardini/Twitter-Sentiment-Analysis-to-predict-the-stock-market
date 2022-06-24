@@ -1,5 +1,6 @@
 # Evaluating the efficiency of Twitter Sentiment Analysis as a tool of prediction for the stock market
 This research wants to build a time serie of the polarity of tweets related to a cluster of firms, and compare it to the time serie of the same firms in the stock market. The chosen firms are: Apple, Google, Nike, Nestlé, Beyond Meat, Bayer and NovaVax.<br>
+A real forecasting capacity of the Twitter Sentiment series would mean that this method could have a valuable implementation to trading-bots.
 
 ## Download and Analysis
 To download all the tweets related to the firms I used Twitter's API. I wrote all the code in R, and automated it thanks to **Windows Task Manager**, so that the download would have started every day at the same our, by itself. The downloaded tweets were then automatically uploaded to OneDrive, so that I could access them at any time.<br>
