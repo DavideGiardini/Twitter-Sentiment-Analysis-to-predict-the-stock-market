@@ -17,8 +17,6 @@ The data was then visualized using R package "ggplot2". Here is some example of 
 <p align = "center">
   <img height = "250" src="https://user-images.githubusercontent.com/98034877/175571677-4f21a6a8-a76d-46dd-8e8d-52c6488db619.png">
   <img height = "250" src="https://user-images.githubusercontent.com/98034877/175571706-5225b0d7-a5e4-4376-947c-f310b3101e9a.png">
-  <img height = "350" src="https://user-images.githubusercontent.com/98034877/175571688-c6127c49-5ccc-49e9-b4d4-d0d75e76ae88.png">
-  <img height = "350" src="https://user-images.githubusercontent.com/98034877/175571721-e43ceaf0-f9ff-412a-b57f-ade55ab4f510.png">
 </p>
 
 
