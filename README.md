@@ -22,7 +22,7 @@ The data was then visualized using R package "ggplot2". Here is some example of 
 
 
 ## Conclusions
-In order to evaluate the existence of a relationship of causality between the tweets and the closing price of the firm, I built a test based on [Granger Causality Test](https://en.wikipedia.org/wiki/Granger_causality) that I called "Close Test".
+In order to evaluate the existence of a relationship of causality between the tweets and the closing price of the firm, I built a test based on [Granger Causality Test](https://en.wikipedia.org/wiki/Granger_causality) that I called "[Close Test](https://github.com/DavideGiardini/Close-Test)".
 This test brought very positive results highlighting numerous relationship of causality, summarized in the next table:
 <p align = "center">
 <img width="350" alt="image" src="https://user-images.githubusercontent.com/98034877/175568807-2e53a0b3-a7c2-49dc-8928-40715f4f6230.png">
